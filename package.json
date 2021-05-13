@@ -1,0 +1,14 @@
+{
+  "name": "funciones_lambda",
+  "version": "1.0.0",
+  "description": "funciones lambda con aws y node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angel mondragon, danilo quintero, eduardo pico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
